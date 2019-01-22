@@ -23,6 +23,7 @@ LeetCode Algorithm
 |18|[4Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/18.4Sum.py) | Medium|100%|
 |19|[Remove Nth Node From End of List](https://github.com/Dod-o/LeetCode/blob/master/11-20/19.Remove_Nth_Node_From_End_of_List.py) | Medium|100%|
 |20|[Valid Parentheses](https://github.com/Dod-o/LeetCode/blob/master/11-20/20.Valid_Parentheses.py) | Easy|100%|
+|21|[Merge Two Sorted Lists](https://github.com/Dod-o/LeetCode/blob/master/21-30/21.%20Merge_Two_Sorted_Lists.py) | Easy|100%|
 
 
 
