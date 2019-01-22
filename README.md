@@ -25,6 +25,7 @@ LeetCode Algorithm
 |20|[Valid Parentheses](https://github.com/Dod-o/LeetCode/blob/master/11-20/20.Valid_Parentheses.py) | Easy|100%|
 |21|[Merge Two Sorted Lists](https://github.com/Dod-o/LeetCode/blob/master/21-30/21.%20Merge_Two_Sorted_Lists.py) | Easy|100%|
 |22|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/22.%20Generate_Parentheses.py) | Medium|100%|
+|23|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/23.%20Merge_k_Sorted_Lists.py) | Hard|100%|
 
 
 
