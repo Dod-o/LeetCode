@@ -27,6 +27,7 @@ LeetCode Algorithm
 |22|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/22.%20Generate_Parentheses.py) | Medium|100%|
 |23|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/23.%20Merge_k_Sorted_Lists.py) | Hard|100%|
 |24|[Swap Nodes in Pairs](https://github.com/Dod-o/LeetCode/blob/master/21-30/24.%20Swap_Nodes_in_Pairs.py) | Medium|100%|
+|25|[Reverse Nodes in k-Group](https://github.com/Dod-o/LeetCode/blob/master/21-30/25.%20Reverse_Nodes_in_k-Group.py) | Hard|100%|
 
 
 
