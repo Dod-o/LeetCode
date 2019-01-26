@@ -29,5 +29,6 @@ LeetCode Algorithm
 |24|[Swap Nodes in Pairs](https://github.com/Dod-o/LeetCode/blob/master/21-30/24.%20Swap_Nodes_in_Pairs.py) | Medium|100%|
 |25|[Reverse Nodes in k-Group](https://github.com/Dod-o/LeetCode/blob/master/21-30/25.%20Reverse_Nodes_in_k-Group.py) | Hard|100%|
 |26|[Remove Duplicates from Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/21-30/26.%20Remove_Duplicates_from_Sorted_Array.py) | Easy|100%|
+|27|[Remove Element](https://github.com/Dod-o/LeetCode/blob/master/21-30/27.%20Remove_Element.py) | Easy|100%|
 
 
