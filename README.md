@@ -28,6 +28,6 @@ LeetCode Algorithm
 |23|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/23.%20Merge_k_Sorted_Lists.py) | Hard|100%|
 |24|[Swap Nodes in Pairs](https://github.com/Dod-o/LeetCode/blob/master/21-30/24.%20Swap_Nodes_in_Pairs.py) | Medium|100%|
 |25|[Reverse Nodes in k-Group](https://github.com/Dod-o/LeetCode/blob/master/21-30/25.%20Reverse_Nodes_in_k-Group.py) | Hard|100%|
-
+|26|[Remove Duplicates from Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/21-30/26.%20Remove_Duplicates_from_Sorted_Array.py) | Easy|100%|
 
 
