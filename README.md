@@ -31,5 +31,6 @@ LeetCode Algorithm
 |26|[Remove Duplicates from Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/21-30/26.%20Remove_Duplicates_from_Sorted_Array.py) | Easy|100%|
 |27|[Remove Element](https://github.com/Dod-o/LeetCode/blob/master/21-30/27.%20Remove_Element.py) | Easy|100%|
 |28|[Implement strStr()](https://github.com/Dod-o/LeetCode/blob/master/21-30/28.%20Implement_strStr().py) | Easy|100%|
+|29|[Divide Two Integers](https://github.com/Dod-o/LeetCode/blob/master/21-30/29.%20Divide_Two_Integers.py) | Medium|100%|
 
 
