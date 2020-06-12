@@ -1,55 +1,67 @@
+import copy
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
 
-class Solution:
+def create_link(nums):
+    head = ListNode(None)
+    cur_node = head
+
+    for i in range(len(nums)):
+        cur_node.next = ListNode(nums[i])
+        cur_node = cur_node.next
+
+    return head.next
+
+def check_link(link):
+    while link != None:
+        print(link.val, end=' ')
+        link = link.next
+    print()
+
+
+class Solution(object):
+    def get_nums(self, link):
+        result = 0
+        multiple = 1
+        while link != None:
+            result += link.val * multiple
+            multiple *= 10
+            link = link.next
+        return result
+
+    def create_link(self, nums):
+        link_nums = []
+        if nums == 0: link_nums.append(0)
+        else:
+            while nums != 0:
+                link_nums.append(nums % 10)
+                nums //= 10
+
+        head = ListNode(None)
+        cur_node = head
+        for i in range(len(link_nums)):
+            cur_node.next = ListNode(link_nums[i])
+            cur_node = cur_node.next
+        return head.next
+
     def addTwoNumbers(self, l1, l2):
         """
         :type l1: ListNode
         :type l2: ListNode
         :rtype: ListNode
         """
-        point = l1
-        n1 = 0
-        index = 0
-        while point != None:
-            n1 = n1 + point.val * (10 ** index)
-            index += 1
-            point = point.next
-        point = l2
-        n2 = 0
-        index = 0
-        while point != None:
-            n2 = n2 + point.val * (10 ** index)
-            index += 1
-            point = point.next
+        num1 = self.get_nums(l1)
+        num2 = self.get_nums(l2)
+        return self.create_link(num1 + num2)
 
-        sum = n1 + n2
-        if sum == 0:
-            l = ListNode(0)
-            return l
-        else:
-            point = ListNode(sum % 10)
-            sum = sum // 10
-            head = point
-        while sum != 0:
-            point.next = ListNode(sum % 10)
-            point = point.next
-            sum = sum // 10
-        return head
+if __name__ == '__main__':
+    l1 = create_link([2, 4, 3])
+    l2 = create_link([5, 6, 4])
 
-
-s = Solution()
-a = ListNode(1)
-b = ListNode(8)
-a.next = b
-
-c = ListNode(0)
-# d = ListNode(4)
-# c.next = d
-
-s = Solution()
-x = s.addTwoNumbers(a, c)
-print(x.val, x.next.val)
+    s = Solution()
+    result = s.addTwoNumbers(l1, l2)
+    check_link(result)
