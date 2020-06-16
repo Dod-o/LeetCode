@@ -8,10 +8,10 @@ LeetCode Algorithm
 |3|[Longest Substring Without Repeating Characters](https://github.com/Dod-o/LeetCode/blob/master/1-10/3.Longest_Substring_Without_Repeating_Characters.py) | Medium|100%| 27.85% | 65.74% |
 |4|[Median of Two Sorted Arrays  ](https://github.com/Dod-o/LeetCode/blob/master/1-10/4.Median_of_Two_Sorted_Arrays.py) | Hard|100%| 49.62% | 13.81% |
 |5|[Longest_Palindromic_Substring](https://github.com/Dod-o/LeetCode/blob/master/1-10/5.Longest_Palindromic_Substring.py) | Medium|100%| 71.20% | 96.89% |
-|6|[ZigZag Conversion](https://github.com/Dod-o/LeetCode/blob/master/1-10/6.ZigZag_Conversion.py) | Medium|100%| 0.00% | 0.00% |
-|7|[Reverse Integer](https://github.com/Dod-o/LeetCode/blob/master/1-10/7.Reverse_Integer.py) | Easy|100%| 0.00% | 0.00% |
-|8|[String to Integer (atoi)](https://github.com/Dod-o/LeetCode/blob/master/1-10/8.String_to_Integer_(atoi).py) | Medium|100%| 0.00% | 0.00% |
-|9|[Palindrome Number](https://github.com/Dod-o/LeetCode/blob/master/1-10/9.Palindrome_Number.py) | Easy|100%| 0.00% | 0.00% |
+|6|[ZigZag Conversion](https://github.com/Dod-o/LeetCode/blob/master/1-10/6.ZigZag_Conversion.py) | Medium|100%| 46.36% | 73.40% |
+|7|[Reverse Integer](https://github.com/Dod-o/LeetCode/blob/master/1-10/7.Reverse_Integer.py) | Easy|100%| 75.87% | 51.71% |
+|8|[String to Integer (atoi)](https://github.com/Dod-o/LeetCode/blob/master/1-10/8.String_to_Integer_(atoi).py) | Medium|100%| 69.07% | 93.85% |
+|9|[Palindrome Number](https://github.com/Dod-o/LeetCode/blob/master/1-10/9.Palindrome_Number.py) | Easy|100%| 72.01% | 54.91% |
 |10| Regular Expression Matching| Hard| NA| 0.00% | 0.00% |
 |11|[Container With Most Water](https://github.com/Dod-o/LeetCode/blob/master/11-20/11.Container_With_Most_Water.py) | Medium|100%| 0.00% | 0.00% |
 |12|[Integer to Roman](https://github.com/Dod-o/LeetCode/blob/master/11-20/12.Integer%20to%20Roman.py) | Medium|100%| 0.00% | 0.00% |

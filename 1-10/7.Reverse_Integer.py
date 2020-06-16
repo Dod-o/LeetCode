@@ -1,26 +1,34 @@
-class Solution:
+class Solution(object):
     def reverse(self, x):
         """
         :type x: int
         :rtype: int
         """
-        import math
-        sign = 0
-        if x < 0:
-            x = -x
-            sign = 1
+        if x == 0: return x
 
-        num = 0
-        while x > 0:
-            num = num * 10 + (x % 10)
+        neg = False
+        if x < 0:
+            neg = True
+            x = -x
+
+        result = 0
+        while x != 0:
+            x_remain = x % 10
+            result = result * 10 + x_remain
             x = x // 10
 
-        if sign == 1:
-            num = -num
+        if neg == True: result = -result
 
-        if num < -math.pow(2, 31):
-            return 0
-        if num > math.pow(2, 31) - 1:
-            return 0
+        if result < -(2**31) or result > 2**31 - 1: return 0
 
-        return num
+        return result
+
+
+
+
+
+
+if __name__ == '__main__':
+    s = Solution()
+    result = s.reverse(120)
+    print(result)
