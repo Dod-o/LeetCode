@@ -13,11 +13,11 @@ LeetCode Algorithm
 |8|[String to Integer (atoi)](https://github.com/Dod-o/LeetCode/blob/master/1-10/8.String_to_Integer_(atoi).py) | Medium|100%| 69.07% | 93.85% |
 |9|[Palindrome Number](https://github.com/Dod-o/LeetCode/blob/master/1-10/9.Palindrome_Number.py) | Easy|100%| 72.01% | 54.91% |
 |10| Regular Expression Matching| Hard| NA| 0.00% | 0.00% |
-|11|[Container With Most Water](https://github.com/Dod-o/LeetCode/blob/master/11-20/11.Container_With_Most_Water.py) | Medium|100%| 0.00% | 0.00% |
-|12|[Integer to Roman](https://github.com/Dod-o/LeetCode/blob/master/11-20/12.Integer%20to%20Roman.py) | Medium|100%| 0.00% | 0.00% |
-|13|[Roman to Integer](https://github.com/Dod-o/LeetCode/blob/master/11-20/13.Roman_to_Integer.py) | Easy|100%| 0.00% | 0.00% |
-|14|[Longest Common Prefix](https://github.com/Dod-o/LeetCode/blob/master/11-20/14.Longest_Common_Prefix.py) | Easy|100%| 0.00% | 0.00% |
-|15|[3Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/15.3Sum.py) | Medium|100%| 0.00% | 0.00% |
+|11|[Container With Most Water](https://github.com/Dod-o/LeetCode/blob/master/11-20/11.Container_With_Most_Water.py) | Medium|100%| 89.85% | 89.38% |
+|12|[Integer to Roman](https://github.com/Dod-o/LeetCode/blob/master/11-20/12.Integer%20to%20Roman.py) | Medium|100%| 96.37% | 60.36% |
+|13|[Roman to Integer](https://github.com/Dod-o/LeetCode/blob/master/11-20/13.Roman_to_Integer.py) | Easy|100%| 19.97% | 82.06% |
+|14|[Longest Common Prefix](https://github.com/Dod-o/LeetCode/blob/master/11-20/14.Longest_Common_Prefix.py) | Easy|100%| 95.19% | 86.36% |
+|15|[3Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/15.3Sum.py) | Medium|100%| 53.45% | 72.00% |
 |16|[3Sum Closest](https://github.com/Dod-o/LeetCode/blob/master/11-20/16.3Sum_Closest.py) | Medium|100%| 0.00% | 0.00% |
 |17|[Letter Combinations of a Phone Number](https://github.com/Dod-o/LeetCode/blob/master/11-20/17.Letter_Combinations_of_a_Phone_Number.py) | Medium|100%| 0.00% | 0.00% |
 |18|[4Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/18.4Sum.py) | Medium|100%| 0.00% | 0.00% |

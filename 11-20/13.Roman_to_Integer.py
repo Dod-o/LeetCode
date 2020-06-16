@@ -40,3 +40,8 @@ class Solution:
                 break
 
         return intNum
+
+if __name__ == '__main__':
+    s = Solution()
+    result = s.romanToInt("III")
+    print(result)

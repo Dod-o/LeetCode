@@ -1,28 +1,35 @@
-class Solution:
+class Solution(object):
     def longestCommonPrefix(self, strs):
         """
         :type strs: List[str]
         :rtype: str
         """
-        if len(strs) == 0:
-            return ''
-
-        minLength = len(strs[0])
-        for i in range(len(strs)):
-            if len(strs[i]) < minLength:
-                minLength = len(strs[i])
+        if len(strs) == 0: return ""
+        if len(strs) == 1: return strs[0]
 
         point = 0
-        returnStr = ''
+        longest_common = ""
+        while True:
+            if point < len(strs[0]):
+                cur_char = strs[0][point]
+            else: return longest_common
+            all_same = True
+            for i in range(1, len(strs)):
+                if point < len(strs[i]) and strs[i][point] == cur_char: continue
+                else:
+                    all_same = False
+                    break
+            if all_same == True:
+                longest_common += cur_char
+                point += 1
+            else: return longest_common
 
-        for i in range(minLength):
-            s = strs[0][i]
-            flag = True
-            for j in range(1, len(strs)):
-                if strs[j][i] != s:
-                    flag = False
-            if flag == True:
-                returnStr += s
-            else:
-                return returnStr
-        return returnStr
+
+
+
+
+
+if __name__ == '__main__':
+    s = Solution()
+    result = s.longestCommonPrefix(["flower","flow","flight"])
+    print(result)

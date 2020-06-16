@@ -26,3 +26,10 @@ class Solution:
         if n != 0:romanStr += units[n - 1]
 
         return romanStr
+
+
+
+if __name__ == '__main__':
+    s = Solution()
+    result = s.intToRoman(58)
+    print(result)
