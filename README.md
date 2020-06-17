@@ -18,15 +18,15 @@ LeetCode Algorithm
 |13|[Roman to Integer](https://github.com/Dod-o/LeetCode/blob/master/11-20/13.Roman_to_Integer.py) | Easy|100%| 19.97% | 82.06% |
 |14|[Longest Common Prefix](https://github.com/Dod-o/LeetCode/blob/master/11-20/14.Longest_Common_Prefix.py) | Easy|100%| 95.19% | 86.36% |
 |15|[3Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/15.3Sum.py) | Medium|100%| 53.45% | 72.00% |
-|16|[3Sum Closest](https://github.com/Dod-o/LeetCode/blob/master/11-20/16.3Sum_Closest.py) | Medium|100%| 0.00% | 0.00% |
-|17|[Letter Combinations of a Phone Number](https://github.com/Dod-o/LeetCode/blob/master/11-20/17.Letter_Combinations_of_a_Phone_Number.py) | Medium|100%| 0.00% | 0.00% |
-|18|[4Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/18.4Sum.py) | Medium|100%| 0.00% | 0.00% |
-|19|[Remove Nth Node From End of List](https://github.com/Dod-o/LeetCode/blob/master/11-20/19.Remove_Nth_Node_From_End_of_List.py) | Medium|100%| 0.00% | 0.00% |
-|20|[Valid Parentheses](https://github.com/Dod-o/LeetCode/blob/master/11-20/20.Valid_Parentheses.py) | Easy|100%| 0.00% | 0.00% |
-|21|[Merge Two Sorted Lists](https://github.com/Dod-o/LeetCode/blob/master/21-30/21.%20Merge_Two_Sorted_Lists.py) | Easy|100%| 0.00% | 0.00% |
-|22|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/22.%20Generate_Parentheses.py) | Medium|100%| 0.00% | 0.00% |
-|23|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/23.%20Merge_k_Sorted_Lists.py) | Hard|100%| 0.00% | 0.00% |
-|24|[Swap Nodes in Pairs](https://github.com/Dod-o/LeetCode/blob/master/21-30/24.%20Swap_Nodes_in_Pairs.py) | Medium|100%| 0.00% | 0.00% |
+|16|[3Sum Closest](https://github.com/Dod-o/LeetCode/blob/master/11-20/16.3Sum_Closest.py) | Medium|100%| 99.32% | 55.94% |
+|17|[Letter Combinations of a Phone Number](https://github.com/Dod-o/LeetCode/blob/master/11-20/17.Letter_Combinations_of_a_Phone_Number.py) | Medium|100%| 84.69% | 82.70% |
+|18|[4Sum](https://github.com/Dod-o/LeetCode/blob/master/11-20/18.4Sum.py) | Medium|100%| 91.72% | 97.78% |
+|19|[Remove Nth Node From End of List](https://github.com/Dod-o/LeetCode/blob/master/11-20/19.Remove_Nth_Node_From_End_of_List.py) | Medium|100%| 81.09% | 37.66% |
+|20|[Valid Parentheses](https://github.com/Dod-o/LeetCode/blob/master/11-20/20.Valid_Parentheses.py) | Easy|100%| 90.98% | 45.17% |
+|21|[Merge Two Sorted Lists](https://github.com/Dod-o/LeetCode/blob/master/21-30/21.%20Merge_Two_Sorted_Lists.py) | Easy|100%| 95.34% | 61.16% |
+|22|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/22.%20Generate_Parentheses.py) | Medium|100%| 85.24% | 84.59% |
+|23|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/23.%20Merge_k_Sorted_Lists.py) | Hard|100%| 90.62% | 33.20% |
+|24|[Swap Nodes in Pairs](https://github.com/Dod-o/LeetCode/blob/master/21-30/24.%20Swap_Nodes_in_Pairs.py) | Medium|100%| 99.87% | 50.81% |
 |25|[Reverse Nodes in k-Group](https://github.com/Dod-o/LeetCode/blob/master/21-30/25.%20Reverse_Nodes_in_k-Group.py) | Hard|100%| 0.00% | 0.00% |
 |26|[Remove Duplicates from Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/21-30/26.%20Remove_Duplicates_from_Sorted_Array.py) | Easy|100%| 0.00% | 0.00% |
 |27|[Remove Element](https://github.com/Dod-o/LeetCode/blob/master/21-30/27.%20Remove_Element.py) | Easy|100%| 0.00% | 0.00% |

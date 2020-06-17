@@ -1,34 +1,27 @@
-class Solution:
-
-    def createList(self, list):
-        if len(list) == 0:
-            return None
-
-        L = ListNode(list[0])
-        Lc = L
-
-        for i in range(1, len(list)):
-            Lc.next = ListNode(list[i])
-            Lc = Lc.next
-        return L
-
+# Definition for singly-linked list.
+class ListNode(object):
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+class Solution(object):
     def mergeKLists(self, lists):
         """
         :type lists: List[ListNode]
         :rtype: ListNode
         """
-        if len(lists) == 0:
-            return []
+        nums = []
+        for List in lists:
+            while List != None:
+                nums.append(List.val)
+                List = List.next
+        nums = sorted(nums)
+        head = point = ListNode(0)
+        for i in range(len(nums)):
+            point.next = ListNode(nums[i])
+            point = point.next
+        return head.next
 
-        val = []
-        for i in range(len(lists)):
-            list = lists[i]
-            while list != None:
-                val.append(list.val)
-                list = list.next
 
-        val = sorted(val)
-        print(val)
-        val = self.createList(val)
 
-        return val
+if __name__ == '__main__':
+    pass

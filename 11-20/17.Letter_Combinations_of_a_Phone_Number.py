@@ -1,64 +1,42 @@
-class Solution:
+class Solution(object):
+    def __init__(self):
+        self.dict = {
+            "2": ['a', 'b', 'c'],
+            "3": ['d', 'e', 'f'],
+            "4": ['g', 'h', 'i'],
+            "5": ['j', 'k', 'l'],
+            "6": ['m', 'n', 'o'],
+            "7": ['p', 'q', 'r', 's'],
+            "8": ['t', 'u', 'v'],
+            "9": ['w', 'x', 'y', 'z']
+        }
+
+    def get_string(self, num_str):
+        if len(num_str) == 0: return [""]
+        if len(num_str) == 1: return self.dict[num_str[0]]
+
+        final_result = []
+        cur_str_cand = self.dict[num_str[0]]
+        for i in range(len(cur_str_cand)):
+            result = self.get_string(num_str[1:])
+            for j in range(len(result)):
+                final_result.append(cur_str_cand[i] + result[j])
+        return final_result
+
     def letterCombinations(self, digits):
         """
         :type digits: str
         :rtype: List[str]
         """
-        one = []
-        two = ['a', 'b', 'c']
-        three = ['d', 'e', 'f']
-        four = ['g', 'h', 'i']
-        five = ['j', 'k', 'l']
-        six = ['m', 'n', 'o']
-        seven = ['p', 'q', 'r', 's']
-        eight = ['t', 'u', 'v']
-        nine = ['w', 'x', 'y', 'z']
-        number = [one, two, three, four, five, six, seven, eight, nine]
+        if len(digits) == 0: return []
 
-        if len(digits) == 0:
-            return []
-        if len(digits) == 1:
-            return number[int(digits[0]) - 1]
+        return self.get_string(digits)
 
-        digitsComb = []
-        digitsCombFlag = []
-        for s in digits:
-            digitsComb.append(number[int(s) - 1])
-            digitsCombFlag.append(0)
 
-        length = len(digitsComb)
 
-        returnArr = []
-        curStr = ''
-        for i in range(length):
-            curStr += str(digitsComb[i][digitsCombFlag[i]])
-        returnArr.append(curStr)
 
-        flag = True
-        while flag == True:
-            i = len(digitsCombFlag) - 1
-            digitsCombFlag[i] += 1
-            if digitsCombFlag[i] == len(digitsComb[i]):
-                digitsCombFlag[i] = 0
-                digitsCombFlag[i - 1] += 1
-                k = i
-                proce = True
-                while proce == True:
-                    k = k - 1
-                    if digitsCombFlag[k] == len(digitsComb[k]):
-                        if k == 0:
-                            return returnArr
-                        else:
-                            digitsCombFlag[k] = 0
-                            digitsCombFlag[k - 1] += 1
-                    else:
-                        proce = False
-                curStr = ''
-                for i in range(length):
-                    curStr += str(digitsComb[i][digitsCombFlag[i]])
-                returnArr.append(curStr)
-            else:
-                curStr = ''
-                for i in range(length):
-                    curStr += str(digitsComb[i][digitsCombFlag[i]])
-                returnArr.append(curStr)
+
+if __name__ == '__main__':
+    s = Solution()
+    result = s.letterCombinations("23")
+    print(result)
