@@ -40,7 +40,7 @@ LeetCode Algorithm
 |35|[Search Insert Position](https://github.com/Dod-o/LeetCode/blob/master/31-40/35.%20Search%20Insert%20Position.py) | Easy|100%| 98.87% | 76.67% |
 |36|[Valid Sudoku](https://github.com/Dod-o/LeetCode/blob/master/31-40/36.%20Valid%20Sudoku.py) | Medium|100%| 47.30% | 35.87% |
 |37|[Sudoku Solver](https://github.com/Dod-o/LeetCode/blob/master/31-40/37.%20Sudoku%20Solver.py) | Hard|100%| 92.58% | 47.74% |
-|38|[Count and Say](https://github.com/Dod-o/LeetCode/blob/master/31-40/38.%20Count%20and%20Say.py) Easy| |100%| 82.14% | 19.94% |
+|38|[Count and Say](https://github.com/Dod-o/LeetCode/blob/master/31-40/38.%20Count%20and%20Say.py) | Easy|100%| 82.14% | 19.94% |
 ||[]() | |100%| 0.00% | 0.00% |
 ||[]() | |100%| 0.00% | 0.00% |
 ||[]() | |100%| 0.00% | 0.00% |
