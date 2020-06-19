@@ -12,7 +12,7 @@ LeetCode Algorithm
 |7|[Reverse Integer](https://github.com/Dod-o/LeetCode/blob/master/1-10/7.Reverse_Integer.py) | Easy|100%| 75.87% | 51.71% |
 |8|[String to Integer (atoi)](https://github.com/Dod-o/LeetCode/blob/master/1-10/8.String_to_Integer_(atoi).py) | Medium|100%| 69.07% | 93.85% |
 |9|[Palindrome Number](https://github.com/Dod-o/LeetCode/blob/master/1-10/9.Palindrome_Number.py) | Easy|100%| 72.01% | 54.91% |
-|10| Regular Expression Matching| Hard| NA| 0.00% | 0.00% |
+|10| Regular Expression Matching| Hard| NA| NA | NA |
 |11|[Container With Most Water](https://github.com/Dod-o/LeetCode/blob/master/11-20/11.Container_With_Most_Water.py) | Medium|100%| 89.85% | 89.38% |
 |12|[Integer to Roman](https://github.com/Dod-o/LeetCode/blob/master/11-20/12.Integer%20to%20Roman.py) | Medium|100%| 96.37% | 60.36% |
 |13|[Roman to Integer](https://github.com/Dod-o/LeetCode/blob/master/11-20/13.Roman_to_Integer.py) | Easy|100%| 19.97% | 82.06% |
@@ -33,7 +33,7 @@ LeetCode Algorithm
 |28|[Implement strStr()](https://github.com/Dod-o/LeetCode/blob/master/21-30/28.%20Implement_strStr().py) | Easy|100%| 85.56% | 67.81% |
 |29|[Divide Two Integers](https://github.com/Dod-o/LeetCode/blob/master/21-30/29.%20Divide_Two_Integers.py) | Medium|100%| 51.85% | 97.37% |
 |30|[Substring with Concatenation of All Words](https://github.com/Dod-o/LeetCode/blob/master/21-30/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py) | Hard|100%| 31.18% | 62.29% |
-|31|[Next Permutation](https://github.com/Dod-o/LeetCode/blob/master/31-40/31.%20Next%20Permutation.py) | Medium|100%| 93。52% | 37。16 |
+|31|[Next Permutation](https://github.com/Dod-o/LeetCode/blob/master/31-40/31.%20Next%20Permutation.py) | Medium|100%| 93.52% | 37.16% |
 |32|[Longest Valid Parentheses](https://github.com/Dod-o/LeetCode/blob/master/31-40/32.%20Longest%20Valid%20Parentheses.py) | Hard|100%| 83.21% | 34.66% |
 |33|[Search in Rotated Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/31-40/33.%20Search%20in%20Rotated%20Sorted%20Array.py) | Medium|100%| 47.34% | 81.96% |
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/31-40/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | Medium|100%| 86.60% | 97.78% |
