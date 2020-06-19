@@ -32,15 +32,15 @@ LeetCode Algorithm
 |27|[Remove Element](https://github.com/Dod-o/LeetCode/blob/master/21-30/27.%20Remove_Element.py) | Easy|100%| 48.15% | 70.71% |
 |28|[Implement strStr()](https://github.com/Dod-o/LeetCode/blob/master/21-30/28.%20Implement_strStr().py) | Easy|100%| 85.56% | 67.81% |
 |29|[Divide Two Integers](https://github.com/Dod-o/LeetCode/blob/master/21-30/29.%20Divide_Two_Integers.py) | Medium|100%| 51.85% | 97.37% |
-|30|[Substring with Concatenation of All Words]() | Hard|100%| 31.18% | 62.29% |
-|31|[Next Permutation]() | Medium|100%| 93。52% | 37。16 |
-|32|[Longest Valid Parentheses]() | Hard|100%| 83.21% | 34.66% |
-|33|[Search in Rotated Sorted Array]() | Medium|100%| 47.34% | 81.96% |
-|34|[Find First and Last Position of Element in Sorted Array]() | Medium|100%| 86.60% | 97.78% |
-|35|[Search Insert Position]() | Easy|100%| 98.87% | 76.67% |
-|36|[Valid Sudoku]() | Medium|100%| 47.30% | 35.87% |
-|37|[Sudoku Solver]() | Hard|100%| 92.58% | 47.74% |
-|38|[Count and Say]() Easy| |100%| 82.14% | 19.94% |
+|30|[Substring with Concatenation of All Words](https://github.com/Dod-o/LeetCode/blob/master/21-30/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py) | Hard|100%| 31.18% | 62.29% |
+|31|[Next Permutation](https://github.com/Dod-o/LeetCode/blob/master/31-40/31.%20Next%20Permutation.py) | Medium|100%| 93。52% | 37。16 |
+|32|[Longest Valid Parentheses](https://github.com/Dod-o/LeetCode/blob/master/31-40/32.%20Longest%20Valid%20Parentheses.py) | Hard|100%| 83.21% | 34.66% |
+|33|[Search in Rotated Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/31-40/33.%20Search%20in%20Rotated%20Sorted%20Array.py) | Medium|100%| 47.34% | 81.96% |
+|34|[Find First and Last Position of Element in Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/31-40/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | Medium|100%| 86.60% | 97.78% |
+|35|[Search Insert Position](https://github.com/Dod-o/LeetCode/blob/master/31-40/35.%20Search%20Insert%20Position.py) | Easy|100%| 98.87% | 76.67% |
+|36|[Valid Sudoku](https://github.com/Dod-o/LeetCode/blob/master/31-40/36.%20Valid%20Sudoku.py) | Medium|100%| 47.30% | 35.87% |
+|37|[Sudoku Solver](https://github.com/Dod-o/LeetCode/blob/master/31-40/37.%20Sudoku%20Solver.py) | Hard|100%| 92.58% | 47.74% |
+|38|[Count and Say](https://github.com/Dod-o/LeetCode/blob/master/31-40/38.%20Count%20and%20Say.py) Easy| |100%| 82.14% | 19.94% |
 ||[]() | |100%| 0.00% | 0.00% |
 ||[]() | |100%| 0.00% | 0.00% |
 ||[]() | |100%| 0.00% | 0.00% |
