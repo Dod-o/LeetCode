@@ -1,19 +1,21 @@
-class Solution:
+class Solution(object):
     def removeElement(self, nums, val):
         """
         :type nums: List[int]
         :type val: int
         :rtype: int
         """
-        curModigyPoint = 0
-        curPoint = 0
+        # if len(nums) == 0: return 0
 
-        while curPoint < len(nums):
-            if nums[curPoint] == val:
-                curPoint += 1
-            else:
-                nums[curModigyPoint] = nums[curPoint]
-                curModigyPoint += 1
-                curPoint += 1
 
-        return curModigyPoint
+        point = 0
+        for i in range(len(nums)):
+            if nums[i] == val: continue
+            nums[point] = nums[i]
+            point += 1
+        return point
+
+
+
+if __name__ == '__main__':
+    print(Solution().removeElement([], 3))

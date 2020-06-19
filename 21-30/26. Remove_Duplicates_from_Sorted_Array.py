@@ -1,24 +1,19 @@
-class Solution:
+class Solution(object):
     def removeDuplicates(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        if len(nums) <= 1:
-            return len(nums)
+        point = 0
+        cur_index = 1
+        while cur_index < len(nums):
+            if nums[cur_index] == nums[point]:
+                cur_index += 1
+                continue
+            point += 1
+            nums[point] = nums[cur_index]
+        return point + 1
 
-        curModifyPoint = 0
-        curPoint = 1
-
-        while curPoint < len(nums):
-            if nums[curPoint - 1] == nums[curPoint]:
-                curPoint += 1
-            else:
-                curModifyPoint += 1
-                nums[curModifyPoint] = nums[curPoint]
-                curPoint += 1
-
-        for i in range(curModifyPoint + 1):
-            print(nums[i])
-
-        return curModifyPoint + 1
+if __name__ == '__main__':
+    result = Solution().removeDuplicates([0,0,1,1,1,2,2,3,3,4])
+    print(result)

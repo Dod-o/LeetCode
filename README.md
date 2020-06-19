@@ -27,10 +27,39 @@ LeetCode Algorithm
 |22|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/22.%20Generate_Parentheses.py) | Medium|100%| 85.24% | 84.59% |
 |23|[Generate Parentheses](https://github.com/Dod-o/LeetCode/blob/master/21-30/23.%20Merge_k_Sorted_Lists.py) | Hard|100%| 90.62% | 33.20% |
 |24|[Swap Nodes in Pairs](https://github.com/Dod-o/LeetCode/blob/master/21-30/24.%20Swap_Nodes_in_Pairs.py) | Medium|100%| 99.87% | 50.81% |
-|25|[Reverse Nodes in k-Group](https://github.com/Dod-o/LeetCode/blob/master/21-30/25.%20Reverse_Nodes_in_k-Group.py) | Hard|100%| 0.00% | 0.00% |
-|26|[Remove Duplicates from Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/21-30/26.%20Remove_Duplicates_from_Sorted_Array.py) | Easy|100%| 0.00% | 0.00% |
-|27|[Remove Element](https://github.com/Dod-o/LeetCode/blob/master/21-30/27.%20Remove_Element.py) | Easy|100%| 0.00% | 0.00% |
-|28|[Implement strStr()](https://github.com/Dod-o/LeetCode/blob/master/21-30/28.%20Implement_strStr().py) | Easy|100%| 0.00% | 0.00% |
-|29|[Divide Two Integers](https://github.com/Dod-o/LeetCode/blob/master/21-30/29.%20Divide_Two_Integers.py) | Medium|100%| 0.00% | 0.00% |
-
+|25|[Reverse Nodes in k-Group](https://github.com/Dod-o/LeetCode/blob/master/21-30/25.%20Reverse_Nodes_in_k-Group.py) | Hard|100%| 72.26% | 54.89% |
+|26|[Remove Duplicates from Sorted Array](https://github.com/Dod-o/LeetCode/blob/master/21-30/26.%20Remove_Duplicates_from_Sorted_Array.py) | Easy|100%| 62.26% | 92.52% |
+|27|[Remove Element](https://github.com/Dod-o/LeetCode/blob/master/21-30/27.%20Remove_Element.py) | Easy|100%| 48.15% | 70.71% |
+|28|[Implement strStr()](https://github.com/Dod-o/LeetCode/blob/master/21-30/28.%20Implement_strStr().py) | Easy|100%| 85.56% | 67.81% |
+|29|[Divide Two Integers](https://github.com/Dod-o/LeetCode/blob/master/21-30/29.%20Divide_Two_Integers.py) | Medium|100%| 51.85% | 97.37% |
+|30|[Substring with Concatenation of All Words]() | Hard|100%| 31.18% | 62.29% |
+|31|[Next Permutation]() | Medium|100%| 93。52% | 37。16 |
+|32|[Longest Valid Parentheses]() | Hard|100%| 83.21% | 34.66% |
+|33|[Search in Rotated Sorted Array]() | Medium|100%| 47.34% | 81.96% |
+|34|[Find First and Last Position of Element in Sorted Array]() | Medium|100%| 86.60% | 97.78% |
+|35|[Search Insert Position]() | Easy|100%| 98.87% | 76.67% |
+|36|[Valid Sudoku]() | Medium|100%| 47.30% | 35.87% |
+|37|[Sudoku Solver]() | Hard|100%| 92.58% | 47.74% |
+|38|[Count and Say]() Easy| |100%| 82.14% | 19.94% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
+||[]() | |100%| 0.00% | 0.00% |
 
